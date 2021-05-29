@@ -1,0 +1,5 @@
+access_ip  = "117.207.16.177/32"
+cloud9_ip  = "100.24.121.168/32"
+dbname     = "rancher"
+dbuser     = "bobby"
+dbpassword = "ak3sdbstorage"
